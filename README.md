@@ -51,6 +51,7 @@ The website also serves as a simple place where people can find my contact infor
 * HTML5
 * CSS3
 * Vanilla JavaScript
+* Firebase
 
 ---
 
