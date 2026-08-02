@@ -4,7 +4,7 @@
 
 **Chat application:** https://chatlearnfromfail.tiiny.host
 
-LearnFromFail is my personal portfolio and contact website built while learning HTML and CSS. The design is inspired by a Linux terminal and retro system-configuration interfaces.
+LearnFromFail is my personal portfolio and contact website built while learning HTML and CSS. The design is inspired by a Linux terminal and retro system-configuration interfaces. I also created a separate chat application using Firebase as part of my web development learning journey.
 
 ## Preview
 
