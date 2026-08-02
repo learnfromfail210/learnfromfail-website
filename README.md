@@ -10,15 +10,15 @@ LearnFromFail is my personal portfolio and contact website built while learning 
 
 ### Chat interface
 
-![Chat interface](screenshots/chat-interface.png)
+![Chat interface](/chat-interface.png)
 
 ### Welcome screen
 
-![Welcome screen](screenshots/welcome-screen.png)
+![Welcome screen](/welcome-screen.png)
 
 ### Contact section
 
-![Contact section](screenshots/contact-section.png)
+![Contact section](/contact-section.png)
 
 ---
 
