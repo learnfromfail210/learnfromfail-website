@@ -1,42 +1,72 @@
-# learnfromfail-website
-Retro terminal-inspired personal website and contact page built as an HTML/CSS learning project.
 # LearnFromFail — Personal Portfolio Website
-
-[![Website](https://img.shields.io/badge/Live%20Site-Visit-blue)](https://learnfromfail.tiiny.site)
 
 **Live website:** https://learnfromfail.tiiny.site
 
-LearnFromFail is my personal portfolio and contact website built while learning **HTML and CSS**. The design is inspired by a Linux terminal and retro system-configuration interfaces.
+LearnFromFail is my personal portfolio and contact website built while learning HTML and CSS. The design is inspired by a Linux terminal and retro system-configuration interfaces.
 
 ## Preview
 
 ### Chat interface
+
 ![Chat interface](screenshots/chat-interface.png)
 
 ### Welcome screen
+
 ![Welcome screen](screenshots/welcome-screen.png)
 
 ### Contact section
+
 ![Contact section](screenshots/contact-section.png)
 
-## About
+---
 
-This project was created to practice:
+## About the project
 
-- HTML structure
-- CSS styling
-- responsive design
-- publishing a live website
+I created this website to practice:
+
+* Semantic HTML
+* CSS layout and typography
+* Responsive web design
+* Custom UI styling
+* Publishing a live website
+
+The website also serves as a simple place where people can find my contact information.
+
+---
+
+## Features
+
+* Retro terminal-inspired interface
+* Dark theme with green accent colors
+* Interactive navigation section
+* Contact cards for multiple platforms
+* Lightweight static website
+
+---
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+---
+
+## Learning goals
+
+This repository is intentionally kept simple because it is part of my learning journey. I am using it to understand how websites are structured and hosted on the web.
+
+---
 
 ## Author
 
 **Theo**
 
-- Website: https://learnfromfail.tiiny.site
-- GitHub: https://github.com/learnfromfail210
+* Website: https://learnfromfail.tiiny.site
+* GitHub: https://github.com/learnfromfail210
+
+---
+
+## Project status
+
+**Active learning project** — I continue to improve the design and add new features as I learn more about web development.
