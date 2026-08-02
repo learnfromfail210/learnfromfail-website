@@ -1,6 +1,7 @@
 # LearnFromFail — Personal Portfolio Website
 
 **Live website:** https://learnfromfail.tiiny.site
+**Chat application:** https://chatlearnfromfail.tiiny.host
 
 LearnFromFail is my personal portfolio and contact website built while learning HTML and CSS. The design is inspired by a Linux terminal and retro system-configuration interfaces.
 
